@@ -8,6 +8,8 @@ class SettingsController < ApplicationController
 	  		conn.execute("TRUNCATE #{t} CASCADE")
 	  		conn.reset_pk_sequence!(t)
 	  	end
-  		Rails.application.load_seed
+	  	Board.create(name: "[Add Title]", subtitle: "[Add Sub-Title]")
+	  	List.create(name: "New")
+  		# Rails.application.load_seed
 	end
 end
