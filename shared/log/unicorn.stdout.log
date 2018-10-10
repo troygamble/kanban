@@ -1,0 +1,728 @@
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"aATZ/QBlvpWxy44heDob5O/ZxhEPcrFydXfjgFnP9DG3CmUcqTlEUcMFa14O7dzWNuzyzhCLDXwMu2z/1owiQA==", "card"=>{"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"aATZ/QBlvpWxy44heDob5O/ZxhEPcrFydXfjgFnP9DG3CmUcqTlEUcMFa14O7dzWNuzyzhCLDXwMu2z/1owiQA==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"Ig8Q0gHZ263+tMYJxSn56XKHZjryjknlOo25KG0vUYBvBIzI87rjb2WEOvj0bqn2TlgdRmZMy5B9RtUCEjJy7Q==", "card"=>{"name"=>"card1", "content"=>"This is card1", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"This is card1", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"Ig8Q0gHZ263+tMYJxSn56XKHZjryjknlOo25KG0vUYBvBIzI87rjb2WEOvj0bqn2TlgdRmZMy5B9RtUCEjJy7Q==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"This is card1", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"zWYnV1q7BGh38dm1XRbstTReZapTv6U0+7HHpUF/EHaAbbtNqNg8quzBJURsUbyqCIEe1sd9J0G8equPPmIzGw==", "card"=>{"name"=>"card1", "content"=>"asdfasdf", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"asdfasdf", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"zWYnV1q7BGh38dm1XRbstTReZapTv6U0+7HHpUF/EHaAbbtNqNg8quzBJURsUbyqCIEe1sd9J0G8equPPmIzGw==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"asdfasdf", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"4taAhxpJjuN0qZANlI8p2YMpZ0/b8uyyl3yLJh0STc6v3Ryd6Cq2Ie+ZbPylyHnGv/YcM08wbsfQt+cMYg9uow==", "card"=>{"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"4taAhxpJjuN0qZANlI8p2YMpZ0/b8uyyl3yLJh0STc6v3Ryd6Cq2Ie+ZbPylyHnGv/YcM08wbsfQt+cMYg9uow==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"this is card1", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"OHiDFOlXzfElGKw4hOAyePM3tJSJrMTfI2Bg3h4+Ict1cx8OGzT1M74oUMm1p2Jnz+jP6B1uRqpkqwz0YSMCpg==", "card"=>{"name"=>"card1", "content"=>"sdf", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"sdf", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"OHiDFOlXzfElGKw4hOAyePM3tJSJrMTfI2Bg3h4+Ict1cx8OGzT1M74oUMm1p2Jnz+jP6B1uRqpkqwz0YSMCpg==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"sdf", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"OHiDFOlXzfElGKw4hOAyePM3tJSJrMTfI2Bg3h4+Ict1cx8OGzT1M74oUMm1p2Jnz+jP6B1uRqpkqwz0YSMCpg==", "card"=>{"name"=>"card1", "content"=>"sdf", "list_id"=>"1"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"sdf", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"OHiDFOlXzfElGKw4hOAyePM3tJSJrMTfI2Bg3h4+Ict1cx8OGzT1M74oUMm1p2Jnz+jP6B1uRqpkqwz0YSMCpg==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"sdf", "list_id"=>"1"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdfd", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdfd", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdfd", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sade", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sade", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sade", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdafsd", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdafsd", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdafsd", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ds", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ds", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ds", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dfg", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dfg", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dfg", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"eLkviR1OjKIjRLa2Y3AazvxO3/7wXr/ZjrI/RMDjUVI1srOT7y20YLh0SkdSN0rRwJGkgmScPazJeVNuv/5yPw==", "card"=>{"name"=>"card1", "content"=>"sadf", "list_id"=>"9"}, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+sdfasdfadsf{"name"=>"card1", "content"=>"sadf", "list_id"=>"9"}
+!!!!!!!!!!!!!!!{"utf8"=>"✓", "authenticity_token"=>"eLkviR1OjKIjRLa2Y3AazvxO3/7wXr/ZjrI/RMDjUVI1srOT7y20YLh0SkdSN0rRwJGkgmScPazJeVNuv/5yPw==", "card"=><ActionController::Parameters {"name"=>"card1", "content"=>"sadf", "list_id"=>"9"} permitted: false>, "commit"=>"Create Card", "controller"=>"cards", "action"=>"create"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adfsdaf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"adfsdaf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"adfsdaf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sadf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sadf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sadf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"df", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"df", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"df", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sa", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sa", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sa", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdaf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdaf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdaf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"s", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"s", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"s", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dfasdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dfasdf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dfasdf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"3"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"3"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"df", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdaf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"8", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"s", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adsf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"adsf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"adsf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdaf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdaf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdaf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sadf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sadf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sadf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"4"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"hgfhgf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"hgfhgf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"hgfhgf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "list_id"=>"1", "content"=>"This is first cardmjhgjhg\n"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first cardmjhgjhg\n", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"hgfhgf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"This is third card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"3", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first cardmjhgjhg\n", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first cardmjhgjhg\n", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first cardmjhgjhg\n", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"hgfhgf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"hgfhgf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"t", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"t", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"t", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "list_id"=>"1", "content"=>"dfasdf"}, "controller"=>"cards", "action"=>"update", "id"=>"10", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "list_id"=>"1", "content"=>"dfasdfdsaf"}, "controller"=>"cards", "action"=>"update", "id"=>"10", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "list_id"=>"1", "content"=>"sadf"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "list_id"=>"1", "content"=>"sadf"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"8", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"dfasdfdsaf", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"10", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"sadf", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tkjhg", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tkjhg", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"6", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"card1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"card1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"card2", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"card2", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card3", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"card3", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"card3", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"card4", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"card4", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card5", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"card5", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"card5", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"PCK", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"PCK", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"PCK", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"PCK", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"1", "content"=>"Notes"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"1", "content"=>"These are some notes that I would like to save"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dfg", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dfg", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dfg", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dfgdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dfgdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dfgdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dfgd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dfgd", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dfgd", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"RNS", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"RNS", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"RNS", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"RNS", "list_id"=>"1", "content"=>"RNS - 168866221 - N2856623R - MACQUARIE PARK\n\nIncorrect SFP\n\nEmailed Nathan - Dan - "}, "controller"=>"cards", "action"=>"update", "id"=>"22", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"HAW", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"HAW", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "list_id"=>"1", "content"=>"Site outage required - Netops\n\nEngage Catherine today"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"Site outage required - Netops\n\nEngage Catherine today", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"Site outage required - Netops\n\nEngage Catherine today", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"Site outage required - Netops\n\nEngage Catherine today", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "list_id"=>"10", "content"=>"Site outage required - Netops\n\nEngage Catherine today"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"WLM", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"WLM", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"WLM", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"PCK", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"PCK", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"1", "content"=>"SIIAM ticket raised.   168883836"}, "controller"=>"cards", "action"=>"update", "id"=>"25", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"1", "content"=>"SIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side"}, "controller"=>"cards", "action"=>"update", "id"=>"25", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"SIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"25", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"SIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"25", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"UKN", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"UKN", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"UKN", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"UKN", "list_id"=>"1", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"UKN SDH EPE", "list_id"=>"1", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"UKN SDH EPE", "list_id"=>"1", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"UKN SDH EPE", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"10", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"10", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"Site outage required - Netops\n\nEngage Catherine today", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"12", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753\n\nSIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side\n\n\nGOC GTO - tech engaged"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "list_id"=>"10", "content"=>"Site outage required - Netops\n\nEmail sent to netops / tewy / ash s.\n\nVaugh Com\n\n"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"HAW", "content"=>"Site outage required - Netops\n\nEmail sent to netops / tewy / ash s.\n\nVaugh Com\n\n", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"23", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753\n\nSIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side\n\n\nGOC GTO - tech engaged", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"12", "content"=>"RE: Dod TXL3,ETSSIIAM,N3864439R,PCOK,TYU, INC000029656753\n\nSIIAM ticket raised.   168883836\n\nEmail sent Mrunal / S chong / wayne to confirm dod side\n\n\nGOC GTO - tech engaged"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JAS", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"JAS", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"JAS", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"TRO", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"TRO", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TST", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"TST", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"TST", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"DAV", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"DAV", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"DAV", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"BER", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"BER", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"BER", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"IAN", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"IAN", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"IAN", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JAS", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"41", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"42", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"DAV", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"44", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"BER", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"45", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"IAN", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"46", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"DAV", "content"=>"Incident Number\nSome Details\n\netc etc", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"44", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"IAN", "content"=>"Incident Number\nSome Details\n\netc etc", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"46", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "content"=>"Incident Number\nSome Details\n\netc etc", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"42", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"12", "content"=>"Unable to proceed - Design Required"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"IAN", "content"=>"Incident Number\nSome Details\n\netc etc", "list_id"=>"10"}, "controller"=>"cards", "action"=>"update", "id"=>"46", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"Unable to proceed - Design Required", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JA41S", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"41", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JAS", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"41", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"INC4323", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"41", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"INC4323", "list_id"=>"1", "content"=>"Incident Number\nSome Details\n\netc etc"}, "controller"=>"cards", "action"=>"update", "id"=>"41", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"Unable to proceed - Design Required", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"Unable to proceed - Design Required", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"Unable to proceed - Design Required", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"Unable to proceed - Design Required", "list_id"=>"12"}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card4", "content"=>"This is forth card", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"4", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card1", "content"=>"This is first card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"1", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"card2", "content"=>"This is seond card", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"2", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ssdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ssdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ssdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"df", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"df", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"df", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adsf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"adsf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"adsf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"a", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"a", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"a", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dasf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dasf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dasf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dasf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"10", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"7", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adsf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"8", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"a", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"a", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"9", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adsf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"8", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"adsf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"8", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"3"}, "controller"=>"cards", "action"=>"update", "id"=>"7", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdf", "content"=>"", "list_id"=>"2"}, "controller"=>"cards", "action"=>"update", "id"=>"7", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TST", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"TST", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"TST", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TST", "list_id"=>"1", "content"=>"This is a test for tracking incidents\nputting text in here "}, "controller"=>"cards", "action"=>"update", "id"=>"11", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"TRO", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"TRO", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"FLN", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"FLN", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"FLN", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "content"=>"", "list_id"=>"4"}, "controller"=>"cards", "action"=>"update", "id"=>"12", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"FLN", "content"=>"", "list_id"=>"6"}, "controller"=>"cards", "action"=>"update", "id"=>"13", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"TRO", "content"=>"", "list_id"=>"5"}, "controller"=>"cards", "action"=>"update", "id"=>"12", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JORN", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"JORN", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"JORN", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"PCK", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"PCK", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"PCK", "list_id"=>"1", "content"=>"Sam for design changes"}, "controller"=>"cards", "action"=>"update", "id"=>"15", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"JORN", "list_id"=>"1", "content"=>"andy v - engage nathan"}, "controller"=>"cards", "action"=>"update", "id"=>"14", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"WEI", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"WEI", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"WEI", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"WEI", "list_id"=>"1", "content"=>"Ticket raised = PE dwn "}, "controller"=>"cards", "action"=>"update", "id"=>"16", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Old T&P", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Old T&P", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Old T&P", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Old T&P", "content"=>"", "list_id"=>"8"}, "controller"=>"cards", "action"=>"update", "id"=>"17", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Old T&P", "list_id"=>"8", "content"=>"contact Rubayet / Mark for updated list."}, "controller"=>"cards", "action"=>"update", "id"=>"17", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123t", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "list_id"=>"1", "content"=>"do it"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"tes123et", "list_id"=>"1", "content"=>"do it"}, "controller"=>"cards", "action"=>"update", "id"=>"18", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ajith", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ajith", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"amfknsknf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"amfknsknf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"amfknsknf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"amfknsknf", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"20", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"amfknsknf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"20", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"amfknsknf", "content"=>"", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"20", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"amfknsknf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"20", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sfsfsd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sfsfsd", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sfsfsd", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sfsfsd", "content"=>"", "list_id"=>"11"}, "controller"=>"cards", "action"=>"update", "id"=>"21", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"fgfdg", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"fgfdg", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"fgfdg", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"fgfdg", "content"=>"", "list_id"=>"9"}, "controller"=>"cards", "action"=>"update", "id"=>"22", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ajith", "list_id"=>"9", "content"=>"fgfgfgfgfgfgd"}, "controller"=>"cards", "action"=>"update", "id"=>"19", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ппрор", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ппрор", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ппрор", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ппрор", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"24", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ппрор", "content"=>"", "list_id"=>"13"}, "controller"=>"cards", "action"=>"update", "id"=>"24", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"cecv", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"cecv", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"cecv", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"cecv", "content"=>"", "list_id"=>"13"}, "controller"=>"cards", "action"=>"update", "id"=>"25", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Thdhs", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Thdhs", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Thdhs", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Thdhs", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"26", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Nsjsjs", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Nsjsjs", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Nsjsjs", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Nsjsjs", "list_id"=>"1", "content"=>"Test"}, "controller"=>"cards", "action"=>"update", "id"=>"27", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hello", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Hello", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Hello", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"class", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"class", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"INC0018", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"INC0018", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"INC0018", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"INC0018", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"INC0018", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"INC0018", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "list_id"=>"1", "content"=>"gdsgdgsdgsdgdsg\ngsdgdgd\nsggdg\nds\ngdgdg\ndgs\ngd\ngd\nsgd\ng\ndg"}, "controller"=>"cards", "action"=>"update", "id"=>"29", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "content"=>"gdsgdgsdgsdgdsg\ngsdgdgd\nsggdg\nds\ngdgdg\ndgs\ngd\ngd\nsgd\ng\ndg", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"29", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"29", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"29", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"class", "list_id"=>"1", "content"=>"Test"}, "controller"=>"cards", "action"=>"update", "id"=>"29", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Bar", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Bar", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Bar", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"blah", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"blah", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"blah", "list_id"=>"1", "content"=>"asdf"}, "controller"=>"cards", "action"=>"update", "id"=>"33", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"blah", "content"=>"asdf", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"33", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sddsdfsf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sddsdfsf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sddsdfsf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"blah blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"blah blah", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"blah blah", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sddsdfsf", "content"=>"", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"34", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"blah blah", "content"=>"", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"35", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"2nd blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"2nd blah", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"2nd blah", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"2nd blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"36", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sddsdfsf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"34", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sddsdfsf", "content"=>"", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"34", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"2nd blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"36", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"2nd blah", "content"=>"", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"36", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"2nd blah", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"36", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"cxc2222", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"cxc2222", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"cxc2222", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"cxc2222", "content"=>"", "list_id"=>"20"}, "controller"=>"cards", "action"=>"update", "id"=>"37", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ghg", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ghg", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ghg", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ghg", "list_id"=>"1", "content"=>"hgh"}, "controller"=>"cards", "action"=>"update", "id"=>"39", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdas", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asdas", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asdas", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ds", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ds", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ds", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"a", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"a", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"a", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"das", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"das", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"das", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"d", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"d", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"d", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"as", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"as", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"d", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"d", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"d", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"as", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"as", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"d", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"d", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"d", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"as", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"as", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"d", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"d", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"d", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"sad", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"sad", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"sad", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"as", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"as", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"d", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"d", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"d", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"asd", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"asd", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"as", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"as", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdas", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"40", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"asdas", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"40", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"a", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"42", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"as", "list_id"=>"1", "content"=>"dasd\n"}, "controller"=>"cards", "action"=>"update", "id"=>"52", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"56", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"35"}, "controller"=>"cards", "action"=>"update", "id"=>"63", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"fsdf", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"fsdf", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"fsdf", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test new", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test new", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test new", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test new", "list_id"=>"1", "content"=>"Testing"}, "controller"=>"cards", "action"=>"update", "id"=>"65", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test new", "content"=>"Testing", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"65", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test new", "content"=>"Testing", "list_id"=>"35"}, "controller"=>"cards", "action"=>"update", "id"=>"65", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"35"}, "controller"=>"cards", "action"=>"update", "id"=>"63", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"35"}, "controller"=>"cards", "action"=>"update", "id"=>"63", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"gffhfh", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"gffhfh", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"gffhfh", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"gffhfh", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"66", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"gffhfh", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"66", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"еуые", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"еуые", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"еуые", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ыфва", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ыфва", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ыфва", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ыфва", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"68", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"еуые", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"67", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ыфва", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"68", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"фыва", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"фыва", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"фыва", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"фыва", "list_id"=>"1", "content"=>"фывфыва"}, "controller"=>"cards", "action"=>"update", "id"=>"69", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"фыва", "list_id"=>"1", "content"=>"фывфывафывафыва"}, "controller"=>"cards", "action"=>"update", "id"=>"69", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"фываывэ", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"фываывэ", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"фываывэ", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumble", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"bumble", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"bumble", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"aa", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"aa", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"aa", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumble", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumble", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumble", "list_id"=>"1", "content"=>"test"}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumble", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident1", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"incident1", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"incident1", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"incident2", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"incident2", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumblerwer", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"bumblerwer", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"werwer", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"werwer", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ыфва", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"68", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"uy", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"uy", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"uy", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"kl;kl;", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"kl;kl;", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"kl;kl;", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"lkjk", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"lkjk", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"lkjk", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"lkjk", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"77", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"lkjk", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"77", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>";l;", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>";l;", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>";l;", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"k;kl;", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"k;kl;", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"k;kl;", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>";kl;", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>";kl;", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>";kl;", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"еуые", "list_id"=>"1", "content"=>"ASAsAS"}, "controller"=>"cards", "action"=>"update", "id"=>"67", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"фываывэ", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"70", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"uy", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"75", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>";kl;", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"80", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"incident2", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"74", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"kl;kl;", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"76", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"kl;kl;", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"76", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"aasd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"aasd", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"aasd", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"aasd", "content"=>"", "list_id"=>"39"}, "controller"=>"cards", "action"=>"update", "id"=>"81", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"aasd", "list_id"=>"39", "content"=>"qweqwe"}, "controller"=>"cards", "action"=>"update", "id"=>"81", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>";", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>";", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>";", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"'", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"'", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"'", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"'", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"'", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"'", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"'", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"71", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hi", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Hi", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Hi", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hi Mate :)", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Hi Mate :)", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Hi Mate :)", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hi Mate :)", "list_id"=>"1", "content"=>"As you can see, there's no way to reset everything back to Default quickly.  Clear the DB entires, so the INC numbers go back to INC0001 "}, "controller"=>"cards", "action"=>"update", "id"=>"86", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hi Mate :)", "content"=>"As you can see, there's no way to reset everything back to Default quickly.  Clear the DB entires, so the INC numbers go back to INC0001 ", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"86", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"lkjk", "content"=>"", "list_id"=>"44"}, "controller"=>"cards", "action"=>"update", "id"=>"77", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"lkjk", "content"=>"", "list_id"=>"40"}, "controller"=>"cards", "action"=>"update", "id"=>"77", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Hi Mate :)", "list_id"=>"1", "content"=>"As you can see, there's no way to reset everything back to Default quickly.  Clear the DB entires, so the INC numbers go back to INC0001 "}, "controller"=>"cards", "action"=>"update", "id"=>"86", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ANDY V - JRN", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"ANDY V - JRN", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"ANDY V - JRN", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"ANDY V - JRN", "content"=>"", "list_id"=>"44"}, "controller"=>"cards", "action"=>"update", "id"=>"87", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"GEL", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"GEL", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"GEL", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"GEL", "list_id"=>"1", "content"=>"DHCP vl300"}, "controller"=>"cards", "action"=>"update", "id"=>"88", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"GEL", "content"=>"DHCP vl300", "list_id"=>"44"}, "controller"=>"cards", "action"=>"update", "id"=>"88", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"dddd", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"dddd", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "list_id"=>"1", "content"=>""}, "controller"=>"cards", "action"=>"update", "id"=>"89", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "content"=>"", "list_id"=>"44"}, "controller"=>"cards", "action"=>"update", "id"=>"89", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"89", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "content"=>"", "list_id"=>"44"}, "controller"=>"cards", "action"=>"update", "id"=>"89", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"dddd", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"update", "id"=>"89", "format"=>"json"}

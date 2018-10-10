@@ -1,0 +1,46 @@
+=== puma startup: 2018-10-09 16:17:02 +0000 ===
+[27459] * Starting control server on unix:///tmp/puma-status-1539101822388-27459
+[27495] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[27499] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[27459] - Worker 1 (pid: 27499) booted, phase: 0
+[27459] - Worker 0 (pid: 27495) booted, phase: 0
+[27459] - Gracefully shutting down workers...
+=== puma startup: 2018-10-09 16:19:48 +0000 ===
+[27699] * Starting control server on unix:///tmp/puma-status-1539101988500-27699
+[27735] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[27739] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[27699] - Worker 1 (pid: 27739) booted, phase: 0
+[27699] - Worker 0 (pid: 27735) booted, phase: 0
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"rerrr", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"rerrr", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"rerrr", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"Test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"Test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"Test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"test", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"test", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"test", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"BSR", "content"=>"", "list_id"=>"1"}, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+sdfasdfadsf{"name"=>"BSR", "content"=>"", "list_id"=>"1"}
+!!!!!!!!!!!!!!!{"card"=><ActionController::Parameters {"name"=>"BSR", "content"=>"", "list_id"=>"1"} permitted: false>, "controller"=>"cards", "action"=>"create", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"BSR", "list_id"=>"1", "content"=>"FIBER ISSUES\n\npassed Joel - CSD contact details for Dom M, for access if required. Fixing fibre issue"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+!!!!!!!!!!!!!!!{"card"=>{"name"=>"BSR", "list_id"=>"1", "content"=>"FIBER ISSUES\n\npassed Joel - CSD contact details for Dom M, for access if required. Fixing fibre issue"}, "controller"=>"cards", "action"=>"update", "id"=>"5", "format"=>"json"}
+[27699] - Gracefully shutting down workers...
+[32295] Early termination of worker
+[32315] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[32315] Early termination of worker
+=== puma startup: 2018-10-10 05:11:48 +0000 ===
+[1152] * Starting control server on unix:///tmp/puma-status-1539148308441-1152
+[1390] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[1394] + Gemfile in context: /home/ubuntu/kanban/Gemfile
+[1152] - Worker 1 (pid: 1394) booted, phase: 0
+[1152] - Worker 0 (pid: 1390) booted, phase: 0

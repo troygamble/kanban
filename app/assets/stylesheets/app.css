@@ -1,0 +1,294 @@
+* {
+  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+body {
+  font-size: 14px;
+  background-color: #069;
+  color: #fff;
+  margin: 0;
+}
+
+.app-wrapper {
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+.board {
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 20px;
+  display: flex;
+  flex: 1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 118px;
+  bottom: 33px;
+  padding-right: 15px;
+  margin-bottom: 15px;
+}
+
+/*.app-wrapper > ::-webkit-scrollbar{
+  visibility:hidden
+}*/
+
+/*.app-wrapper > ::-webkit-scrollbar:hover {
+  visibility: visible;
+  background: #afb6b9;
+}
+*/
+.list {
+  display: inline-block;
+  width: 250px;
+  flex: 0 0 250px;
+  vertical-align: top;
+  overflow: auto;
+  padding: 8px;
+  border-radius: 8px;
+  background: #f8f8f8;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
+  position: relative;
+}
+.card {
+  border-radius: 5px;
+  background: #fff;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  padding: 2px 8px 2px 10px;
+  -webkit-transition: all 0.3 ease;
+  color: #000
+}
+.card:hover {
+  opacity: 0.5;
+}
+.card.dragging {
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  -webkit-transform: rotate(-2deg);
+}
+.card-placeholder {
+  display: block;
+  height: 34px;
+  border: 1px dashed #ddd;
+  margin: 3px 0;
+  border-radius: 5px;
+}
+.listheading {
+  margin: 0 0 10px;
+  padding: 5px;
+  border-bottom: 1px dashed #ddd;
+  text-overflow: ellipsis;
+  user-select: none;
+}
+
+.header {
+  padding: 20px;
+  height: 70px;
+  position: relative;
+  background-color: #09446b;
+  /*font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
+}
+.logo {
+  margin: 0;
+  display: inline-block;
+  margin-top: -7px;
+}
+.logo #subtitle {
+  font-size: 12px;
+  font-weight: normal;
+  /*color: rgba(255,255,255,0.5);*/
+  display: block;
+  text-align: left;
+  letter-spacing: 1px;
+}
+.form-add-todo,
+.form-add-list {
+  padding: 10px 20px;
+  background: #0c79c1;
+  /*font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
+}
+.form-add-todo input,
+.form-add-list input {
+  margin-left: 10px;
+}
+.form-add-list {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+input[type=text] {
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  /*font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
+}
+.total-card-counter {
+  display: inline-block;
+  margin: 0;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  right: 0;
+  bottom: 15px;
+}
+.cardName {
+  position: relative;
+  right: -15px;
+  /*font-family: Cambria;*/
+  font-size: 12px !important;
+  border-style: none !important;
+  max-width: 20%;
+  padding: unset !important;
+}
+.cardIcons {
+  width: 13px;
+  height: 13px;
+  margin-left: 10px;
+  color: #9f9999;
+  font-size: 25px !important;
+  font-weight: bolder !important;
+}
+.cardHead {
+  display: flex;
+  font-size: 17px;
+  align-items: center;
+}
+
+.cardHead > img {
+}
+
+.showCardDetail {
+  padding-left: 5px;
+  padding-right: 5px;
+  display: block;
+}
+.hiddenCardDetail {
+  display: none;
+}
+.showCardDetail > input {
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 10px;
+  padding: unset !important;
+  border-style: none !important;
+  font-size: 15px;
+  width: 80%;
+  display: block;
+}
+#close {
+  margin-left: 8px;
+}
+
+.cardHead > input {
+  margin-right: 20px;
+}
+.listcounter {
+  float: right;
+  font-size: 15px;
+  color: #9f9999;
+  /*font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; */
+}
+.listname {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #999;
+  border: none;
+  background-color: #f8f8f8;
+}
+.listname > img {
+  float: right;
+  font-weight: normal;
+  font-size: 13px;
+}
+.closeList {
+  transform: scale(0.8);
+  float: right;
+  position: absolute;
+  bottom: 10px;
+  right:10px;
+  color:red;
+}
+
+.cardFooter {
+  height: 20px;
+  padding-right: 5px;
+}
+.cardFooter > button {
+  float:right;
+}
+.goLeft {
+  right: 130px;
+}
+.goLeft img {
+  -webkit-filter: invert(100%);
+  /*transform: scale(1.5);*/
+  width: 25px;
+  height: 25px;
+}
+
+.cardHead > #close {
+  width: 13px;
+  height: 13px;
+}
+#close:hover {
+  transform: scale(1);
+}
+.closeList:hover {
+  transform: scale(1);
+}
+.showCardDetail > textarea {
+  max-width: 100%;
+}
+#boardName {
+  border-style: none;
+  font-size: 1em;
+  padding: 0px;
+  font-weight: bold;
+  color: #fff;
+  border: none;
+  background: transparent;
+}
+
+#subtitle {
+  border-style: none;
+  padding: 0px;
+  color: #fff;
+  border: none;
+  background: transparent;
+}
+
+.uniqueId {
+  display:flex;
+  align-items: center;
+  margin-left: 17%;
+  font-size: 12px;
+}
+
+.uniqueId > label {
+  margin-right: 10px;  
+}
+
+.uniqueId > img {
+  width: 15px;
+  height: 15px;
+  user-drag: none; 
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+.float-right{
+  float: right;
+}

@@ -1,0 +1,535 @@
+I, [2018-09-16T08:10:44.777764 #13836]  INFO -- : Refreshing Gem list
+I, [2018-09-16T08:10:45.476284 #13836]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-16T08:10:45.476422 #13836]  INFO -- : worker=0 spawning...
+I, [2018-09-16T08:10:45.477776 #13836]  INFO -- : worker=1 spawning...
+I, [2018-09-16T08:10:45.478490 #13840]  INFO -- : worker=0 spawned pid=13840
+I, [2018-09-16T08:10:45.478600 #13840]  INFO -- : worker=0 ready
+I, [2018-09-16T08:10:45.479426 #13836]  INFO -- : master process ready
+I, [2018-09-16T08:10:45.491410 #13843]  INFO -- : worker=1 spawned pid=13843
+I, [2018-09-16T08:10:45.491558 #13843]  INFO -- : worker=1 ready
+I, [2018-09-18T22:00:05.827784 #13836]  INFO -- : reaped #<Process::Status: pid 13840 exit 0> worker=0
+I, [2018-09-18T22:00:05.829041 #13836]  INFO -- : reaped #<Process::Status: pid 13843 exit 0> worker=1
+I, [2018-09-18T22:00:05.829161 #13836]  INFO -- : master complete
+I, [2018-09-18T22:01:11.608899 #25216]  INFO -- : Refreshing Gem list
+I, [2018-09-18T22:01:12.611250 #25216]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-18T22:01:12.611424 #25216]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-18T22:01:12.611527 #25216]  INFO -- : worker=0 spawning...
+I, [2018-09-18T22:01:12.613054 #25216]  INFO -- : worker=1 spawning...
+I, [2018-09-18T22:01:12.613897 #25216]  INFO -- : master process ready
+I, [2018-09-18T22:01:12.626140 #25220]  INFO -- : worker=0 spawned pid=25220
+I, [2018-09-18T22:01:12.626289 #25220]  INFO -- : worker=0 ready
+I, [2018-09-18T22:01:12.626944 #25222]  INFO -- : worker=1 spawned pid=25222
+I, [2018-09-18T22:01:12.627066 #25222]  INFO -- : worker=1 ready
+I, [2018-09-18T22:04:02.622936 #25216]  INFO -- : reaped #<Process::Status: pid 25220 exit 0> worker=0
+I, [2018-09-18T22:04:02.623050 #25216]  INFO -- : reaped #<Process::Status: pid 25222 exit 0> worker=1
+I, [2018-09-18T22:04:02.623119 #25216]  INFO -- : master complete
+I, [2018-09-18T22:04:20.730990 #25425]  INFO -- : Refreshing Gem list
+I, [2018-09-18T22:04:21.424015 #25425]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-18T22:04:21.424256 #25425]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-18T22:04:21.424357 #25425]  INFO -- : worker=0 spawning...
+I, [2018-09-18T22:04:21.425892 #25425]  INFO -- : worker=1 spawning...
+I, [2018-09-18T22:04:21.426703 #25429]  INFO -- : worker=0 spawned pid=25429
+I, [2018-09-18T22:04:21.426817 #25429]  INFO -- : worker=0 ready
+I, [2018-09-18T22:04:21.427731 #25425]  INFO -- : master process ready
+I, [2018-09-18T22:04:21.439246 #25432]  INFO -- : worker=1 spawned pid=25432
+I, [2018-09-18T22:04:21.439381 #25432]  INFO -- : worker=1 ready
+I, [2018-09-18T22:05:49.937370 #25425]  INFO -- : reaped #<Process::Status: pid 25429 exit 0> worker=0
+I, [2018-09-18T22:05:49.937489 #25425]  INFO -- : reaped #<Process::Status: pid 25432 exit 0> worker=1
+I, [2018-09-18T22:05:49.937582 #25425]  INFO -- : master complete
+I, [2018-09-18T22:06:00.503340 #25645]  INFO -- : Refreshing Gem list
+I, [2018-09-18T22:06:01.197959 #25645]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-18T22:06:01.198147 #25645]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-18T22:06:01.198275 #25645]  INFO -- : worker=0 spawning...
+I, [2018-09-18T22:06:01.199734 #25645]  INFO -- : worker=1 spawning...
+I, [2018-09-18T22:06:01.200902 #25645]  INFO -- : master process ready
+I, [2018-09-18T22:06:01.204669 #25649]  INFO -- : worker=0 spawned pid=25649
+I, [2018-09-18T22:06:01.204824 #25649]  INFO -- : worker=0 ready
+I, [2018-09-18T22:06:01.213602 #25652]  INFO -- : worker=1 spawned pid=25652
+I, [2018-09-18T22:06:01.213764 #25652]  INFO -- : worker=1 ready
+I, [2018-09-19T06:07:05.486427 #25645]  INFO -- : reaped #<Process::Status: pid 25649 exit 0> worker=0
+I, [2018-09-19T06:07:05.486560 #25645]  INFO -- : reaped #<Process::Status: pid 25652 exit 0> worker=1
+I, [2018-09-19T06:07:05.486668 #25645]  INFO -- : master complete
+I, [2018-09-19T06:07:20.761730 #27956]  INFO -- : Refreshing Gem list
+I, [2018-09-19T06:07:21.438364 #27956]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-19T06:07:21.438541 #27956]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-19T06:07:21.438662 #27956]  INFO -- : worker=0 spawning...
+I, [2018-09-19T06:07:21.440056 #27956]  INFO -- : worker=1 spawning...
+I, [2018-09-19T06:07:21.440758 #27960]  INFO -- : worker=0 spawned pid=27960
+I, [2018-09-19T06:07:21.440877 #27960]  INFO -- : worker=0 ready
+I, [2018-09-19T06:07:21.441784 #27956]  INFO -- : master process ready
+I, [2018-09-19T06:07:21.453578 #27963]  INFO -- : worker=1 spawned pid=27963
+I, [2018-09-19T06:07:21.453718 #27963]  INFO -- : worker=1 ready
+I, [2018-09-19T06:08:30.703646 #27956]  INFO -- : reaped #<Process::Status: pid 27960 exit 0> worker=0
+I, [2018-09-19T06:08:30.703762 #27956]  INFO -- : reaped #<Process::Status: pid 27963 exit 0> worker=1
+I, [2018-09-19T06:08:30.703825 #27956]  INFO -- : master complete
+I, [2018-09-19T06:08:36.765800 #28199]  INFO -- : Refreshing Gem list
+I, [2018-09-19T06:08:37.442075 #28199]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-19T06:08:37.442243 #28199]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-19T06:08:37.442353 #28199]  INFO -- : worker=0 spawning...
+I, [2018-09-19T06:08:37.443898 #28199]  INFO -- : worker=1 spawning...
+I, [2018-09-19T06:08:37.444700 #28203]  INFO -- : worker=0 spawned pid=28203
+I, [2018-09-19T06:08:37.444849 #28203]  INFO -- : worker=0 ready
+I, [2018-09-19T06:08:37.445719 #28199]  INFO -- : master process ready
+I, [2018-09-19T06:08:37.457877 #28206]  INFO -- : worker=1 spawned pid=28206
+I, [2018-09-19T06:08:37.458018 #28206]  INFO -- : worker=1 ready
+I, [2018-09-19T07:07:31.440847 #28199]  INFO -- : reaped #<Process::Status: pid 28203 exit 0> worker=0
+I, [2018-09-19T07:07:31.441023 #28199]  INFO -- : reaped #<Process::Status: pid 28206 exit 0> worker=1
+I, [2018-09-19T07:07:31.441093 #28199]  INFO -- : master complete
+I, [2018-09-19T07:07:59.953924 #28990]  INFO -- : Refreshing Gem list
+I, [2018-09-19T07:08:00.655871 #28990]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-19T07:08:00.656069 #28990]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-19T07:08:00.656202 #28990]  INFO -- : worker=0 spawning...
+I, [2018-09-19T07:08:00.658049 #28990]  INFO -- : worker=1 spawning...
+I, [2018-09-19T07:08:00.658784 #28994]  INFO -- : worker=0 spawned pid=28994
+I, [2018-09-19T07:08:00.658903 #28994]  INFO -- : worker=0 ready
+I, [2018-09-19T07:08:00.660263 #28990]  INFO -- : master process ready
+I, [2018-09-19T07:08:00.671733 #28997]  INFO -- : worker=1 spawned pid=28997
+I, [2018-09-19T07:08:00.671859 #28997]  INFO -- : worker=1 ready
+I, [2018-09-20T04:28:01.396545 #28990]  INFO -- : reaped #<Process::Status: pid 28994 exit 0> worker=0
+I, [2018-09-20T04:28:01.396682 #28990]  INFO -- : reaped #<Process::Status: pid 28997 exit 0> worker=1
+I, [2018-09-20T04:28:01.396752 #28990]  INFO -- : master complete
+I, [2018-09-20T04:28:04.785938 #32529]  INFO -- : Refreshing Gem list
+I, [2018-09-20T04:28:05.485389 #32529]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-20T04:28:05.485612 #32529]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-20T04:28:05.485719 #32529]  INFO -- : worker=0 spawning...
+I, [2018-09-20T04:28:05.487204 #32529]  INFO -- : worker=1 spawning...
+I, [2018-09-20T04:28:05.487975 #32533]  INFO -- : worker=0 spawned pid=32533
+I, [2018-09-20T04:28:05.488864 #32529]  INFO -- : master process ready
+I, [2018-09-20T04:28:05.488120 #32533]  INFO -- : worker=0 ready
+I, [2018-09-20T04:28:05.501399 #32536]  INFO -- : worker=1 spawned pid=32536
+I, [2018-09-20T04:28:05.501550 #32536]  INFO -- : worker=1 ready
+I, [2018-09-20T04:28:34.716882 #32529]  INFO -- : reaped #<Process::Status: pid 32533 exit 0> worker=0
+I, [2018-09-20T04:28:34.717005 #32529]  INFO -- : reaped #<Process::Status: pid 32536 exit 0> worker=1
+I, [2018-09-20T04:28:34.717070 #32529]  INFO -- : master complete
+I, [2018-09-20T04:28:37.467738 #32743]  INFO -- : Refreshing Gem list
+I, [2018-09-20T04:28:38.144053 #32743]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-20T04:28:38.144234 #32743]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-20T04:28:38.144343 #32743]  INFO -- : worker=0 spawning...
+I, [2018-09-20T04:28:38.145798 #32743]  INFO -- : worker=1 spawning...
+I, [2018-09-20T04:28:38.146499 #32747]  INFO -- : worker=0 spawned pid=32747
+I, [2018-09-20T04:28:38.146615 #32747]  INFO -- : worker=0 ready
+I, [2018-09-20T04:28:38.147501 #32743]  INFO -- : master process ready
+I, [2018-09-20T04:28:38.159413 #32750]  INFO -- : worker=1 spawned pid=32750
+I, [2018-09-20T04:28:38.159547 #32750]  INFO -- : worker=1 ready
+I, [2018-09-20T04:33:59.877257 #32743]  INFO -- : reaped #<Process::Status: pid 32747 exit 0> worker=0
+I, [2018-09-20T04:33:59.877393 #32743]  INFO -- : reaped #<Process::Status: pid 32750 exit 0> worker=1
+I, [2018-09-20T04:33:59.877470 #32743]  INFO -- : master complete
+I, [2018-09-20T04:34:02.887611 #547]  INFO -- : Refreshing Gem list
+I, [2018-09-20T04:34:03.601975 #547]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-20T04:34:03.602135 #547]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-20T04:34:03.602239 #547]  INFO -- : worker=0 spawning...
+I, [2018-09-20T04:34:03.603704 #547]  INFO -- : worker=1 spawning...
+I, [2018-09-20T04:34:03.604900 #547]  INFO -- : master process ready
+I, [2018-09-20T04:34:03.608628 #551]  INFO -- : worker=0 spawned pid=551
+I, [2018-09-20T04:34:03.608749 #551]  INFO -- : worker=0 ready
+I, [2018-09-20T04:34:03.617314 #554]  INFO -- : worker=1 spawned pid=554
+I, [2018-09-20T04:34:03.617434 #554]  INFO -- : worker=1 ready
+I, [2018-09-20T05:01:30.868827 #547]  INFO -- : reaped #<Process::Status: pid 551 exit 0> worker=0
+I, [2018-09-20T05:01:30.868964 #547]  INFO -- : reaped #<Process::Status: pid 554 exit 0> worker=1
+I, [2018-09-20T05:01:30.869031 #547]  INFO -- : master complete
+I, [2018-09-20T05:01:33.847598 #878]  INFO -- : Refreshing Gem list
+I, [2018-09-20T05:01:34.544409 #878]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-20T05:01:34.544574 #878]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-20T05:01:34.544677 #878]  INFO -- : worker=0 spawning...
+I, [2018-09-20T05:01:34.546142 #878]  INFO -- : worker=1 spawning...
+I, [2018-09-20T05:01:34.546902 #882]  INFO -- : worker=0 spawned pid=882
+I, [2018-09-20T05:01:34.547042 #882]  INFO -- : worker=0 ready
+I, [2018-09-20T05:01:34.547911 #878]  INFO -- : master process ready
+I, [2018-09-20T05:01:34.559666 #885]  INFO -- : worker=1 spawned pid=885
+I, [2018-09-20T05:01:34.559809 #885]  INFO -- : worker=1 ready
+I, [2018-09-20T05:39:16.549762 #878]  INFO -- : reaped #<Process::Status: pid 882 exit 0> worker=0
+I, [2018-09-20T05:39:16.549875 #878]  INFO -- : reaped #<Process::Status: pid 885 exit 0> worker=1
+I, [2018-09-20T05:39:16.549956 #878]  INFO -- : master complete
+I, [2018-09-20T05:39:18.973604 #1279]  INFO -- : Refreshing Gem list
+I, [2018-09-20T05:39:19.662092 #1279]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-20T05:39:19.662257 #1279]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-20T05:39:19.662358 #1279]  INFO -- : worker=0 spawning...
+I, [2018-09-20T05:39:19.663850 #1279]  INFO -- : worker=1 spawning...
+I, [2018-09-20T05:39:19.664637 #1283]  INFO -- : worker=0 spawned pid=1283
+I, [2018-09-20T05:39:19.664766 #1283]  INFO -- : worker=0 ready
+I, [2018-09-20T05:39:19.665723 #1279]  INFO -- : master process ready
+I, [2018-09-20T05:39:19.677275 #1286]  INFO -- : worker=1 spawned pid=1286
+I, [2018-09-20T05:39:19.677395 #1286]  INFO -- : worker=1 ready
+I, [2018-09-26T20:07:56.756737 #1279]  INFO -- : reaped #<Process::Status: pid 1283 exit 0> worker=0
+I, [2018-09-26T20:07:56.757756 #1279]  INFO -- : reaped #<Process::Status: pid 1286 exit 0> worker=1
+I, [2018-09-26T20:07:56.757847 #1279]  INFO -- : master complete
+I, [2018-09-26T20:08:00.855699 #5109]  INFO -- : Refreshing Gem list
+I, [2018-09-26T20:08:01.559527 #5109]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T20:08:01.561491 #5109]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T20:08:01.561604 #5109]  INFO -- : worker=0 spawning...
+I, [2018-09-26T20:08:01.563077 #5109]  INFO -- : worker=1 spawning...
+I, [2018-09-26T20:08:01.563812 #5114]  INFO -- : worker=0 spawned pid=5114
+I, [2018-09-26T20:08:01.563951 #5114]  INFO -- : worker=0 ready
+I, [2018-09-26T20:08:01.564885 #5109]  INFO -- : master process ready
+I, [2018-09-26T20:08:01.578134 #5117]  INFO -- : worker=1 spawned pid=5117
+I, [2018-09-26T20:08:01.578273 #5117]  INFO -- : worker=1 ready
+I, [2018-09-26T20:17:58.395109 #5109]  INFO -- : reaped #<Process::Status: pid 5114 exit 0> worker=0
+I, [2018-09-26T20:17:58.395235 #5109]  INFO -- : reaped #<Process::Status: pid 5117 exit 0> worker=1
+I, [2018-09-26T20:17:58.395312 #5109]  INFO -- : master complete
+I, [2018-09-26T20:18:00.991106 #5473]  INFO -- : Refreshing Gem list
+I, [2018-09-26T20:18:01.717708 #5473]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T20:18:01.719175 #5473]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T20:18:01.719289 #5473]  INFO -- : worker=0 spawning...
+I, [2018-09-26T20:18:01.720799 #5473]  INFO -- : worker=1 spawning...
+I, [2018-09-26T20:18:01.721613 #5473]  INFO -- : master process ready
+I, [2018-09-26T20:18:01.733658 #5478]  INFO -- : worker=0 spawned pid=5478
+I, [2018-09-26T20:18:01.733802 #5478]  INFO -- : worker=0 ready
+I, [2018-09-26T20:18:01.736890 #5480]  INFO -- : worker=1 spawned pid=5480
+I, [2018-09-26T20:18:01.737020 #5480]  INFO -- : worker=1 ready
+I, [2018-09-26T20:30:39.470234 #5473]  INFO -- : reaped #<Process::Status: pid 5478 exit 0> worker=0
+I, [2018-09-26T20:30:39.470374 #5473]  INFO -- : reaped #<Process::Status: pid 5480 exit 0> worker=1
+I, [2018-09-26T20:30:39.470436 #5473]  INFO -- : master complete
+I, [2018-09-26T20:30:42.150353 #5930]  INFO -- : Refreshing Gem list
+I, [2018-09-26T20:30:42.844565 #5930]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T20:30:42.846021 #5930]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T20:30:42.846127 #5930]  INFO -- : worker=0 spawning...
+I, [2018-09-26T20:30:42.847655 #5930]  INFO -- : worker=1 spawning...
+I, [2018-09-26T20:30:42.848941 #5930]  INFO -- : master process ready
+I, [2018-09-26T20:30:42.852551 #5934]  INFO -- : worker=0 spawned pid=5934
+I, [2018-09-26T20:30:42.852677 #5934]  INFO -- : worker=0 ready
+I, [2018-09-26T20:30:42.861569 #5937]  INFO -- : worker=1 spawned pid=5937
+I, [2018-09-26T20:30:42.861711 #5937]  INFO -- : worker=1 ready
+I, [2018-09-26T20:32:35.398083 #5930]  INFO -- : reaped #<Process::Status: pid 5934 exit 0> worker=0
+I, [2018-09-26T20:32:35.398222 #5930]  INFO -- : reaped #<Process::Status: pid 5937 exit 0> worker=1
+I, [2018-09-26T20:32:35.398283 #5930]  INFO -- : master complete
+I, [2018-09-26T20:32:37.892869 #6167]  INFO -- : Refreshing Gem list
+I, [2018-09-26T20:32:38.556816 #6167]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T20:32:38.558167 #6167]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T20:32:38.558285 #6167]  INFO -- : worker=0 spawning...
+I, [2018-09-26T20:32:38.559756 #6167]  INFO -- : worker=1 spawning...
+I, [2018-09-26T20:32:38.560833 #6167]  INFO -- : master process ready
+I, [2018-09-26T20:32:38.564755 #6171]  INFO -- : worker=0 spawned pid=6171
+I, [2018-09-26T20:32:38.564867 #6171]  INFO -- : worker=0 ready
+I, [2018-09-26T20:32:38.572784 #6174]  INFO -- : worker=1 spawned pid=6174
+I, [2018-09-26T20:32:38.572901 #6174]  INFO -- : worker=1 ready
+I, [2018-09-26T21:11:50.850407 #6167]  INFO -- : reaped #<Process::Status: pid 6171 exit 0> worker=0
+I, [2018-09-26T21:11:50.850523 #6167]  INFO -- : reaped #<Process::Status: pid 6174 exit 0> worker=1
+I, [2018-09-26T21:11:50.850588 #6167]  INFO -- : master complete
+I, [2018-09-26T21:11:52.741878 #6895]  INFO -- : Refreshing Gem list
+I, [2018-09-26T21:11:53.428888 #6895]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T21:11:53.430103 #6895]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T21:11:53.430212 #6895]  INFO -- : worker=0 spawning...
+I, [2018-09-26T21:11:53.431753 #6895]  INFO -- : worker=1 spawning...
+I, [2018-09-26T21:11:53.432527 #6899]  INFO -- : worker=0 spawned pid=6899
+I, [2018-09-26T21:11:53.432661 #6899]  INFO -- : worker=0 ready
+I, [2018-09-26T21:11:53.433550 #6895]  INFO -- : master process ready
+I, [2018-09-26T21:11:53.441877 #6902]  INFO -- : worker=1 spawned pid=6902
+I, [2018-09-26T21:11:53.442001 #6902]  INFO -- : worker=1 ready
+I, [2018-09-26T21:14:07.357117 #6895]  INFO -- : reaped #<Process::Status: pid 6899 exit 0> worker=0
+I, [2018-09-26T21:14:07.357248 #6895]  INFO -- : reaped #<Process::Status: pid 6902 exit 0> worker=1
+I, [2018-09-26T21:14:07.357330 #6895]  INFO -- : master complete
+I, [2018-09-26T21:14:09.689114 #7160]  INFO -- : Refreshing Gem list
+I, [2018-09-26T21:14:10.390419 #7160]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-26T21:14:10.391741 #7160]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-26T21:14:10.391846 #7160]  INFO -- : worker=0 spawning...
+I, [2018-09-26T21:14:10.393335 #7160]  INFO -- : worker=1 spawning...
+I, [2018-09-26T21:14:10.394059 #7164]  INFO -- : worker=0 spawned pid=7164
+I, [2018-09-26T21:14:10.394196 #7164]  INFO -- : worker=0 ready
+I, [2018-09-26T21:14:10.395066 #7160]  INFO -- : master process ready
+I, [2018-09-26T21:14:10.406218 #7167]  INFO -- : worker=1 spawned pid=7167
+I, [2018-09-26T21:14:10.406338 #7167]  INFO -- : worker=1 ready
+I, [2018-09-28T14:54:09.659028 #7160]  INFO -- : reaped #<Process::Status: pid 7164 exit 0> worker=0
+I, [2018-09-28T14:54:09.660466 #7160]  INFO -- : reaped #<Process::Status: pid 7167 exit 0> worker=1
+I, [2018-09-28T14:54:09.660552 #7160]  INFO -- : master complete
+I, [2018-09-28T14:54:13.968729 #21326]  INFO -- : Refreshing Gem list
+I, [2018-09-28T14:54:15.025429 #21326]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-28T14:54:15.027569 #21326]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-28T14:54:15.027690 #21326]  INFO -- : worker=0 spawning...
+I, [2018-09-28T14:54:15.029155 #21326]  INFO -- : worker=1 spawning...
+I, [2018-09-28T14:54:15.029935 #21326]  INFO -- : master process ready
+I, [2018-09-28T14:54:15.041525 #21330]  INFO -- : worker=0 spawned pid=21330
+I, [2018-09-28T14:54:15.041679 #21330]  INFO -- : worker=0 ready
+I, [2018-09-28T14:54:15.042358 #21332]  INFO -- : worker=1 spawned pid=21332
+I, [2018-09-28T14:54:15.042483 #21332]  INFO -- : worker=1 ready
+I, [2018-09-28T16:08:40.442580 #21326]  INFO -- : reaped #<Process::Status: pid 21330 exit 0> worker=0
+I, [2018-09-28T16:08:40.442697 #21326]  INFO -- : reaped #<Process::Status: pid 21332 exit 0> worker=1
+I, [2018-09-28T16:08:40.442757 #21326]  INFO -- : master complete
+I, [2018-09-28T16:09:40.671263 #22982]  INFO -- : Refreshing Gem list
+I, [2018-09-28T16:09:41.345654 #22982]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-28T16:09:41.346996 #22982]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-28T16:09:41.347097 #22982]  INFO -- : worker=0 spawning...
+I, [2018-09-28T16:09:41.348545 #22982]  INFO -- : worker=1 spawning...
+I, [2018-09-28T16:09:41.349350 #22982]  INFO -- : master process ready
+I, [2018-09-28T16:09:41.360945 #22986]  INFO -- : worker=0 spawned pid=22986
+I, [2018-09-28T16:09:41.361097 #22986]  INFO -- : worker=0 ready
+I, [2018-09-28T16:09:41.361816 #22988]  INFO -- : worker=1 spawned pid=22988
+I, [2018-09-28T16:09:41.361936 #22988]  INFO -- : worker=1 ready
+I, [2018-09-28T22:31:12.954171 #22982]  INFO -- : reaped #<Process::Status: pid 22986 exit 0> worker=0
+I, [2018-09-28T22:31:12.954288 #22982]  INFO -- : reaped #<Process::Status: pid 22988 exit 0> worker=1
+I, [2018-09-28T22:31:12.954356 #22982]  INFO -- : master complete
+I, [2018-09-28T22:31:36.037551 #25482]  INFO -- : Refreshing Gem list
+I, [2018-09-28T22:31:36.714255 #25482]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-28T22:31:36.715769 #25482]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-28T22:31:36.715880 #25482]  INFO -- : worker=0 spawning...
+I, [2018-09-28T22:31:36.717472 #25482]  INFO -- : worker=1 spawning...
+I, [2018-09-28T22:31:36.718213 #25486]  INFO -- : worker=0 spawned pid=25486
+I, [2018-09-28T22:31:36.718348 #25486]  INFO -- : worker=0 ready
+I, [2018-09-28T22:31:36.719295 #25482]  INFO -- : master process ready
+I, [2018-09-28T22:31:36.730950 #25489]  INFO -- : worker=1 spawned pid=25489
+I, [2018-09-28T22:31:36.731080 #25489]  INFO -- : worker=1 ready
+I, [2018-09-29T00:51:03.508974 #25482]  INFO -- : reaped #<Process::Status: pid 25486 exit 0> worker=0
+I, [2018-09-29T00:51:03.509095 #25482]  INFO -- : reaped #<Process::Status: pid 25489 exit 0> worker=1
+I, [2018-09-29T00:51:03.509184 #25482]  INFO -- : master complete
+I, [2018-09-29T00:52:18.532435 #26684]  INFO -- : Refreshing Gem list
+I, [2018-09-29T00:52:19.215998 #26684]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-29T00:52:19.217275 #26684]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-29T00:52:19.217394 #26684]  INFO -- : worker=0 spawning...
+I, [2018-09-29T00:52:19.218818 #26684]  INFO -- : worker=1 spawning...
+I, [2018-09-29T00:52:19.219536 #26688]  INFO -- : worker=0 spawned pid=26688
+I, [2018-09-29T00:52:19.219673 #26688]  INFO -- : worker=0 ready
+I, [2018-09-29T00:52:19.220586 #26684]  INFO -- : master process ready
+I, [2018-09-29T00:52:19.232052 #26691]  INFO -- : worker=1 spawned pid=26691
+I, [2018-09-29T00:52:19.233705 #26691]  INFO -- : worker=1 ready
+I, [2018-09-29T03:07:24.245549 #26684]  INFO -- : reaped #<Process::Status: pid 26688 exit 0> worker=0
+I, [2018-09-29T03:07:24.245671 #26684]  INFO -- : reaped #<Process::Status: pid 26691 exit 0> worker=1
+I, [2018-09-29T03:07:24.245752 #26684]  INFO -- : master complete
+I, [2018-09-29T03:09:03.847733 #27961]  INFO -- : Refreshing Gem list
+I, [2018-09-29T03:09:04.545724 #27961]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-29T03:09:04.547127 #27961]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-29T03:09:04.547237 #27961]  INFO -- : worker=0 spawning...
+I, [2018-09-29T03:09:04.548761 #27961]  INFO -- : worker=1 spawning...
+I, [2018-09-29T03:09:04.549551 #27961]  INFO -- : master process ready
+I, [2018-09-29T03:09:04.561118 #27965]  INFO -- : worker=0 spawned pid=27965
+I, [2018-09-29T03:09:04.561264 #27965]  INFO -- : worker=0 ready
+I, [2018-09-29T03:09:04.561907 #27967]  INFO -- : worker=1 spawned pid=27967
+I, [2018-09-29T03:09:04.562028 #27967]  INFO -- : worker=1 ready
+I, [2018-09-29T03:10:53.682722 #27961]  INFO -- : reaped #<Process::Status: pid 27965 exit 0> worker=0
+I, [2018-09-29T03:10:53.682847 #27961]  INFO -- : reaped #<Process::Status: pid 27967 exit 0> worker=1
+I, [2018-09-29T03:10:53.682926 #27961]  INFO -- : master complete
+I, [2018-09-29T03:11:43.459559 #28254]  INFO -- : Refreshing Gem list
+I, [2018-09-29T03:11:44.132209 #28254]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-29T03:11:44.133580 #28254]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-29T03:11:44.133680 #28254]  INFO -- : worker=0 spawning...
+I, [2018-09-29T03:11:44.135575 #28254]  INFO -- : worker=1 spawning...
+I, [2018-09-29T03:11:44.136888 #28254]  INFO -- : master process ready
+I, [2018-09-29T03:11:44.147844 #28258]  INFO -- : worker=0 spawned pid=28258
+I, [2018-09-29T03:11:44.147965 #28258]  INFO -- : worker=0 ready
+I, [2018-09-29T03:11:44.148649 #28261]  INFO -- : worker=1 spawned pid=28261
+I, [2018-09-29T03:11:44.149204 #28261]  INFO -- : worker=1 ready
+I, [2018-09-29T03:12:35.870271 #28254]  INFO -- : reaped #<Process::Status: pid 28258 exit 0> worker=0
+I, [2018-09-29T03:12:35.870383 #28254]  INFO -- : reaped #<Process::Status: pid 28261 exit 0> worker=1
+I, [2018-09-29T03:12:35.870446 #28254]  INFO -- : master complete
+I, [2018-09-29T03:17:48.841658 #28536]  INFO -- : Refreshing Gem list
+I, [2018-09-29T03:17:49.517717 #28536]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-29T03:17:49.519082 #28536]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-29T03:17:49.519212 #28536]  INFO -- : worker=0 spawning...
+I, [2018-09-29T03:17:49.520755 #28536]  INFO -- : worker=1 spawning...
+I, [2018-09-29T03:17:49.521698 #28536]  INFO -- : master process ready
+I, [2018-09-29T03:17:49.533298 #28540]  INFO -- : worker=0 spawned pid=28540
+I, [2018-09-29T03:17:49.533423 #28540]  INFO -- : worker=0 ready
+I, [2018-09-29T03:17:49.534090 #28542]  INFO -- : worker=1 spawned pid=28542
+I, [2018-09-29T03:17:49.534226 #28542]  INFO -- : worker=1 ready
+I, [2018-09-30T21:07:28.470333 #28536]  INFO -- : reaped #<Process::Status: pid 28540 exit 0> worker=0
+I, [2018-09-30T21:07:28.473916 #28536]  INFO -- : reaped #<Process::Status: pid 28542 exit 0> worker=1
+I, [2018-09-30T21:07:28.473993 #28536]  INFO -- : master complete
+I, [2018-09-30T21:07:31.779280 #13261]  INFO -- : Refreshing Gem list
+I, [2018-09-30T21:07:32.942480 #13261]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-09-30T21:07:32.944575 #13261]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-09-30T21:07:32.944729 #13261]  INFO -- : worker=0 spawning...
+I, [2018-09-30T21:07:32.946229 #13261]  INFO -- : worker=1 spawning...
+I, [2018-09-30T21:07:32.946957 #13265]  INFO -- : worker=0 spawned pid=13265
+I, [2018-09-30T21:07:32.947100 #13265]  INFO -- : worker=0 ready
+I, [2018-09-30T21:07:32.948084 #13261]  INFO -- : master process ready
+I, [2018-09-30T21:07:32.962049 #13268]  INFO -- : worker=1 spawned pid=13268
+I, [2018-09-30T21:07:32.962194 #13268]  INFO -- : worker=1 ready
+I, [2018-10-01T23:56:23.714039 #13261]  INFO -- : reaped #<Process::Status: pid 13265 exit 0> worker=0
+I, [2018-10-01T23:56:23.718612 #13261]  INFO -- : reaped #<Process::Status: pid 13268 exit 0> worker=1
+I, [2018-10-01T23:56:23.718690 #13261]  INFO -- : master complete
+I, [2018-10-01T23:56:26.643137 #24076]  INFO -- : Refreshing Gem list
+I, [2018-10-01T23:56:27.821656 #24076]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-01T23:56:27.824525 #24076]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-01T23:56:27.824688 #24076]  INFO -- : worker=0 spawning...
+I, [2018-10-01T23:56:27.826266 #24076]  INFO -- : worker=1 spawning...
+I, [2018-10-01T23:56:27.827024 #24080]  INFO -- : worker=0 spawned pid=24080
+I, [2018-10-01T23:56:27.827134 #24080]  INFO -- : worker=0 ready
+I, [2018-10-01T23:56:27.828069 #24076]  INFO -- : master process ready
+I, [2018-10-01T23:56:27.841796 #24083]  INFO -- : worker=1 spawned pid=24083
+I, [2018-10-01T23:56:27.841950 #24083]  INFO -- : worker=1 ready
+I, [2018-10-02T00:26:45.223868 #24076]  INFO -- : reaped #<Process::Status: pid 24080 exit 0> worker=0
+I, [2018-10-02T00:26:45.223990 #24076]  INFO -- : reaped #<Process::Status: pid 24083 exit 0> worker=1
+I, [2018-10-02T00:26:45.224058 #24076]  INFO -- : master complete
+I, [2018-10-02T00:26:47.504935 #24535]  INFO -- : Refreshing Gem list
+I, [2018-10-02T00:26:48.238902 #24535]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-02T00:26:48.240391 #24535]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-02T00:26:48.240564 #24535]  INFO -- : worker=0 spawning...
+I, [2018-10-02T00:26:48.242212 #24535]  INFO -- : worker=1 spawning...
+I, [2018-10-02T00:26:48.243015 #24540]  INFO -- : worker=0 spawned pid=24540
+I, [2018-10-02T00:26:48.243192 #24540]  INFO -- : worker=0 ready
+I, [2018-10-02T00:26:48.244259 #24535]  INFO -- : master process ready
+I, [2018-10-02T00:26:48.257974 #24543]  INFO -- : worker=1 spawned pid=24543
+I, [2018-10-02T00:26:48.258107 #24543]  INFO -- : worker=1 ready
+I, [2018-10-03T21:59:23.931786 #24535]  INFO -- : reaped #<Process::Status: pid 24540 exit 0> worker=0
+I, [2018-10-03T21:59:23.933094 #24535]  INFO -- : reaped #<Process::Status: pid 24543 exit 0> worker=1
+I, [2018-10-03T21:59:23.933196 #24535]  INFO -- : master complete
+I, [2018-10-03T21:59:26.621006 #15259]  INFO -- : Refreshing Gem list
+I, [2018-10-03T21:59:27.675877 #15259]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-03T21:59:27.677634 #15259]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-03T21:59:27.677739 #15259]  INFO -- : worker=0 spawning...
+I, [2018-10-03T21:59:27.679138 #15259]  INFO -- : worker=1 spawning...
+I, [2018-10-03T21:59:27.679935 #15263]  INFO -- : worker=0 spawned pid=15263
+I, [2018-10-03T21:59:27.680058 #15263]  INFO -- : worker=0 ready
+I, [2018-10-03T21:59:27.680831 #15259]  INFO -- : master process ready
+I, [2018-10-03T21:59:27.692593 #15266]  INFO -- : worker=1 spawned pid=15266
+I, [2018-10-03T21:59:27.692752 #15266]  INFO -- : worker=1 ready
+I, [2018-10-03T22:01:31.276617 #15259]  INFO -- : reaped #<Process::Status: pid 15263 exit 0> worker=0
+I, [2018-10-03T22:01:31.276733 #15259]  INFO -- : reaped #<Process::Status: pid 15266 exit 0> worker=1
+I, [2018-10-03T22:01:31.276799 #15259]  INFO -- : master complete
+I, [2018-10-03T22:01:33.896906 #15566]  INFO -- : Refreshing Gem list
+I, [2018-10-03T22:01:34.588072 #15566]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-03T22:01:34.589543 #15566]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-03T22:01:34.589655 #15566]  INFO -- : worker=0 spawning...
+I, [2018-10-03T22:01:34.591137 #15566]  INFO -- : worker=1 spawning...
+I, [2018-10-03T22:01:34.591919 #15570]  INFO -- : worker=0 spawned pid=15570
+I, [2018-10-03T22:01:34.592038 #15570]  INFO -- : worker=0 ready
+I, [2018-10-03T22:01:34.592904 #15566]  INFO -- : master process ready
+I, [2018-10-03T22:01:34.604771 #15573]  INFO -- : worker=1 spawned pid=15573
+I, [2018-10-03T22:01:34.604887 #15573]  INFO -- : worker=1 ready
+I, [2018-10-03T22:12:14.063513 #15566]  INFO -- : reaped #<Process::Status: pid 15570 exit 0> worker=0
+I, [2018-10-03T22:12:14.063624 #15566]  INFO -- : reaped #<Process::Status: pid 15573 exit 0> worker=1
+I, [2018-10-03T22:12:14.063685 #15566]  INFO -- : master complete
+I, [2018-10-03T22:12:16.061491 #15870]  INFO -- : Refreshing Gem list
+I, [2018-10-03T22:12:16.749800 #15870]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-03T22:12:16.751178 #15870]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-03T22:12:16.751296 #15870]  INFO -- : worker=0 spawning...
+I, [2018-10-03T22:12:16.752803 #15870]  INFO -- : worker=1 spawning...
+I, [2018-10-03T22:12:16.753690 #15870]  INFO -- : master process ready
+I, [2018-10-03T22:12:16.765358 #15874]  INFO -- : worker=0 spawned pid=15874
+I, [2018-10-03T22:12:16.765497 #15874]  INFO -- : worker=0 ready
+I, [2018-10-03T22:12:16.766090 #15876]  INFO -- : worker=1 spawned pid=15876
+I, [2018-10-03T22:12:16.766202 #15876]  INFO -- : worker=1 ready
+I, [2018-10-03T22:13:35.938534 #15870]  INFO -- : reaped #<Process::Status: pid 15874 exit 0> worker=0
+I, [2018-10-03T22:13:35.938659 #15870]  INFO -- : reaped #<Process::Status: pid 15876 exit 0> worker=1
+I, [2018-10-03T22:13:35.938729 #15870]  INFO -- : master complete
+I, [2018-10-03T22:14:01.575734 #16126]  INFO -- : Refreshing Gem list
+I, [2018-10-03T22:14:02.313111 #16126]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-03T22:14:02.314594 #16126]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-03T22:14:02.314701 #16126]  INFO -- : worker=0 spawning...
+I, [2018-10-03T22:14:02.316193 #16126]  INFO -- : worker=1 spawning...
+I, [2018-10-03T22:14:02.316907 #16130]  INFO -- : worker=0 spawned pid=16130
+I, [2018-10-03T22:14:02.317037 #16130]  INFO -- : worker=0 ready
+I, [2018-10-03T22:14:02.317998 #16126]  INFO -- : master process ready
+I, [2018-10-03T22:14:02.328754 #16133]  INFO -- : worker=1 spawned pid=16133
+I, [2018-10-03T22:14:02.328870 #16133]  INFO -- : worker=1 ready
+I, [2018-10-04T01:55:53.860033 #16126]  INFO -- : reaped #<Process::Status: pid 16130 exit 0> worker=0
+I, [2018-10-04T01:55:53.860161 #16126]  INFO -- : reaped #<Process::Status: pid 16133 exit 0> worker=1
+I, [2018-10-04T01:55:53.860236 #16126]  INFO -- : master complete
+I, [2018-10-04T01:58:10.948985 #17842]  INFO -- : Refreshing Gem list
+I, [2018-10-04T01:58:11.629814 #17842]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-04T01:58:11.632319 #17842]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-04T01:58:11.632443 #17842]  INFO -- : worker=0 spawning...
+I, [2018-10-04T01:58:11.633923 #17842]  INFO -- : worker=1 spawning...
+I, [2018-10-04T01:58:11.634610 #17847]  INFO -- : worker=0 spawned pid=17847
+I, [2018-10-04T01:58:11.634724 #17847]  INFO -- : worker=0 ready
+I, [2018-10-04T01:58:11.635560 #17842]  INFO -- : master process ready
+I, [2018-10-04T01:58:11.647258 #17850]  INFO -- : worker=1 spawned pid=17850
+I, [2018-10-04T01:58:11.647415 #17850]  INFO -- : worker=1 ready
+I, [2018-10-04T01:59:14.336168 #17842]  INFO -- : reaped #<Process::Status: pid 17847 exit 0> worker=0
+I, [2018-10-04T01:59:14.336281 #17842]  INFO -- : reaped #<Process::Status: pid 17850 exit 0> worker=1
+I, [2018-10-04T01:59:14.336340 #17842]  INFO -- : master complete
+I, [2018-10-04T02:01:08.365168 #18168]  INFO -- : Refreshing Gem list
+I, [2018-10-04T02:01:09.050212 #18168]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-04T02:01:09.051645 #18168]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-04T02:01:09.051749 #18168]  INFO -- : worker=0 spawning...
+I, [2018-10-04T02:01:09.053233 #18168]  INFO -- : worker=1 spawning...
+I, [2018-10-04T02:01:09.054018 #18168]  INFO -- : master process ready
+I, [2018-10-04T02:01:09.065201 #18172]  INFO -- : worker=0 spawned pid=18172
+I, [2018-10-04T02:01:09.065331 #18172]  INFO -- : worker=0 ready
+I, [2018-10-04T02:01:09.065961 #18174]  INFO -- : worker=1 spawned pid=18174
+I, [2018-10-04T02:01:09.066064 #18174]  INFO -- : worker=1 ready
+I, [2018-10-04T02:01:28.693127 #18168]  INFO -- : reaped #<Process::Status: pid 18172 exit 0> worker=0
+I, [2018-10-04T02:01:28.693239 #18168]  INFO -- : reaped #<Process::Status: pid 18174 exit 0> worker=1
+I, [2018-10-04T02:01:28.693305 #18168]  INFO -- : master complete
+I, [2018-10-04T02:04:07.660011 #18553]  INFO -- : Refreshing Gem list
+I, [2018-10-04T02:04:08.336358 #18553]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-04T02:04:08.337696 #18553]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-04T02:04:08.337829 #18553]  INFO -- : worker=0 spawning...
+I, [2018-10-04T02:04:08.339270 #18553]  INFO -- : worker=1 spawning...
+I, [2018-10-04T02:04:08.340009 #18557]  INFO -- : worker=0 spawned pid=18557
+I, [2018-10-04T02:04:08.340826 #18553]  INFO -- : master process ready
+I, [2018-10-04T02:04:08.340114 #18557]  INFO -- : worker=0 ready
+I, [2018-10-04T02:04:08.353896 #18560]  INFO -- : worker=1 spawned pid=18560
+I, [2018-10-04T02:04:08.354025 #18560]  INFO -- : worker=1 ready
+I, [2018-10-04T02:04:20.449255 #18553]  INFO -- : reaped #<Process::Status: pid 18557 exit 0> worker=0
+I, [2018-10-04T02:04:20.449375 #18553]  INFO -- : reaped #<Process::Status: pid 18560 exit 0> worker=1
+I, [2018-10-04T02:04:20.449437 #18553]  INFO -- : master complete
+I, [2018-10-04T02:05:53.687066 #18868]  INFO -- : Refreshing Gem list
+I, [2018-10-04T02:05:54.377807 #18868]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-04T02:05:54.379446 #18868]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-04T02:05:54.379574 #18868]  INFO -- : worker=0 spawning...
+I, [2018-10-04T02:05:54.381099 #18868]  INFO -- : worker=1 spawning...
+I, [2018-10-04T02:05:54.381946 #18868]  INFO -- : master process ready
+I, [2018-10-04T02:05:54.394222 #18872]  INFO -- : worker=0 spawned pid=18872
+I, [2018-10-04T02:05:54.394371 #18872]  INFO -- : worker=0 ready
+I, [2018-10-04T02:05:54.397340 #18874]  INFO -- : worker=1 spawned pid=18874
+I, [2018-10-04T02:05:54.397453 #18874]  INFO -- : worker=1 ready
+I, [2018-10-09T05:57:11.093597 #18868]  INFO -- : reloading config_file=config/unicorn.rb
+I, [2018-10-09T05:57:11.127424 #18868]  INFO -- : Refreshing Gem list
+I, [2018-10-09T05:57:11.132328 #18868]  INFO -- : done reloading config_file=config/unicorn.rb
+I, [2018-10-09T05:57:11.137033 #18868]  INFO -- : reaped #<Process::Status: pid 18872 exit 0> worker=0
+I, [2018-10-09T05:57:11.137107 #18868]  INFO -- : reaped #<Process::Status: pid 18874 exit 0> worker=1
+I, [2018-10-09T05:57:11.137217 #18868]  INFO -- : master complete
+I, [2018-10-09T05:57:42.559614 #1493]  INFO -- : Refreshing Gem list
+I, [2018-10-09T05:57:47.775037 #1493]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-09T05:57:47.775284 #1493]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-09T05:57:47.775396 #1493]  INFO -- : worker=0 spawning...
+I, [2018-10-09T05:57:47.776484 #1493]  INFO -- : worker=1 spawning...
+I, [2018-10-09T05:57:47.777259 #1493]  INFO -- : master process ready
+I, [2018-10-09T05:57:47.788562 #1509]  INFO -- : worker=0 spawned pid=1509
+I, [2018-10-09T05:57:47.797122 #1509]  INFO -- : worker=0 ready
+I, [2018-10-09T05:57:47.797837 #1511]  INFO -- : worker=1 spawned pid=1511
+I, [2018-10-09T05:57:47.797987 #1511]  INFO -- : worker=1 ready
+I, [2018-10-09T06:01:05.883561 #1493]  INFO -- : reaped #<Process::Status: pid 1509 exit 0> worker=0
+I, [2018-10-09T06:01:05.883682 #1493]  INFO -- : reaped #<Process::Status: pid 1511 exit 0> worker=1
+I, [2018-10-09T06:01:05.883764 #1493]  INFO -- : master complete
+I, [2018-10-09T06:18:36.109692 #2317]  INFO -- : Refreshing Gem list
+I, [2018-10-09T06:18:36.815629 #2317]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-09T06:18:36.816476 #2317]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-09T06:18:36.816600 #2317]  INFO -- : worker=0 spawning...
+I, [2018-10-09T06:18:36.817782 #2317]  INFO -- : worker=1 spawning...
+I, [2018-10-09T06:18:36.818571 #2317]  INFO -- : master process ready
+I, [2018-10-09T06:18:36.829935 #2321]  INFO -- : worker=0 spawned pid=2321
+I, [2018-10-09T06:18:36.830048 #2321]  INFO -- : worker=0 ready
+I, [2018-10-09T06:18:36.830672 #2323]  INFO -- : worker=1 spawned pid=2323
+I, [2018-10-09T06:18:36.830774 #2323]  INFO -- : worker=1 ready
+I, [2018-10-09T06:18:51.213109 #2317]  INFO -- : reaped #<Process::Status: pid 2321 exit 0> worker=0
+I, [2018-10-09T06:18:51.213226 #2317]  INFO -- : reaped #<Process::Status: pid 2323 exit 0> worker=1
+I, [2018-10-09T06:18:51.213288 #2317]  INFO -- : master complete
+I, [2018-10-09T06:26:18.729380 #2985]  INFO -- : Refreshing Gem list
+I, [2018-10-09T06:26:19.424003 #2985]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-09T06:26:19.424946 #2985]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-09T06:26:19.425074 #2985]  INFO -- : worker=0 spawning...
+I, [2018-10-09T06:26:19.426021 #2985]  INFO -- : worker=1 spawning...
+I, [2018-10-09T06:26:19.426725 #2985]  INFO -- : master process ready
+I, [2018-10-09T06:26:19.437872 #2989]  INFO -- : worker=0 spawned pid=2989
+I, [2018-10-09T06:26:19.437990 #2989]  INFO -- : worker=0 ready
+I, [2018-10-09T06:26:19.438606 #2991]  INFO -- : worker=1 spawned pid=2991
+I, [2018-10-09T06:26:19.438710 #2991]  INFO -- : worker=1 ready
+I, [2018-10-09T06:27:02.059774 #2985]  INFO -- : reaped #<Process::Status: pid 2989 exit 0> worker=0
+I, [2018-10-09T06:27:02.059906 #2985]  INFO -- : reaped #<Process::Status: pid 2991 exit 0> worker=1
+I, [2018-10-09T06:27:02.059972 #2985]  INFO -- : master complete
+I, [2018-10-09T06:27:12.005909 #3223]  INFO -- : Refreshing Gem list
+I, [2018-10-09T06:27:12.677882 #3223]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-09T06:27:12.678855 #3223]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-09T06:27:12.678973 #3223]  INFO -- : worker=0 spawning...
+I, [2018-10-09T06:27:12.680057 #3223]  INFO -- : worker=1 spawning...
+I, [2018-10-09T06:27:12.680878 #3223]  INFO -- : master process ready
+I, [2018-10-09T06:27:12.691620 #3228]  INFO -- : worker=0 spawned pid=3228
+I, [2018-10-09T06:27:12.691727 #3228]  INFO -- : worker=0 ready
+I, [2018-10-09T06:27:12.692315 #3230]  INFO -- : worker=1 spawned pid=3230
+I, [2018-10-09T06:27:12.692428 #3230]  INFO -- : worker=1 ready
+I, [2018-10-09T14:42:03.530111 #3223]  INFO -- : reaped #<Process::Status: pid 3228 exit 0> worker=0
+I, [2018-10-09T14:42:03.532327 #3223]  INFO -- : reaped #<Process::Status: pid 3230 exit 0> worker=1
+I, [2018-10-09T14:42:03.532401 #3223]  INFO -- : master complete
+I, [2018-10-09T14:46:29.370334 #9120]  INFO -- : Refreshing Gem list
+I, [2018-10-09T14:46:30.358608 #9120]  INFO -- : unlinking existing socket=/home/ubuntu/kanban/shared/sockets/unicorn.sock
+I, [2018-10-09T14:46:30.360012 #9120]  INFO -- : listening on addr=/home/ubuntu/kanban/shared/sockets/unicorn.sock fd=12
+I, [2018-10-09T14:46:30.360137 #9120]  INFO -- : worker=0 spawning...
+I, [2018-10-09T14:46:30.361479 #9120]  INFO -- : worker=1 spawning...
+I, [2018-10-09T14:46:30.362175 #9124]  INFO -- : worker=0 spawned pid=9124
+I, [2018-10-09T14:46:30.362291 #9124]  INFO -- : worker=0 ready
+I, [2018-10-09T14:46:30.363170 #9120]  INFO -- : master process ready
+I, [2018-10-09T14:46:30.374700 #9127]  INFO -- : worker=1 spawned pid=9127
+I, [2018-10-09T14:46:30.374964 #9127]  INFO -- : worker=1 ready
+I, [2018-10-09T14:57:19.172797 #9120]  INFO -- : reaped #<Process::Status: pid 9124 exit 0> worker=0
+I, [2018-10-09T14:57:19.172924 #9120]  INFO -- : reaped #<Process::Status: pid 9127 exit 0> worker=1
+I, [2018-10-09T14:57:19.172990 #9120]  INFO -- : master complete

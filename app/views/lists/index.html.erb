@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <%= csrf_meta_tags %>
+  <% response.headers['Content-type'] = 'text/html; charset=utf-8' %>
+  <meta name="viewport" content="width=device-width">
+  <title><%= @board[0].name.upcase %></title>
+  <%=stylesheet_link_tag "app.css"%>
+  <% colLists = @lists %>
+  <%= javascript_tag do %>
+    var colLists = <%= colLists.to_json.html_safe %>
+  <% end %>
+  <% colcards = @cards %>
+  <%= javascript_tag do %>
+    var dbcards = <%= colcards.to_json.html_safe %>
+  <% end %>
+</head>
+<body>
+  <%= content_tag :div, class: "app-wrapper" do -%>
+    <header class="header">
+      <h1 class="logo"> 
+        <input type="text" id="boardName" value="<%= @board[0].name.upcase %>" onchange="updateBoardName()" />
+        <input type="text" id="subtitle" value="<%= @board[0].subtitle %>" onchange="updatesubtitle()" />
+      </h1>
+      <p class="total-card-counter goLeft"><%= image_tag("totalcard") %></p>
+      <p class="total-card-counter" id="totalCards"></p>
+    </header>
+
+    <form id="frmAddTodo" class="form-add-todo">
+      Add Incident: 
+      <input type="text" autocomplete="off" name="todo_text" id="" value="" placeholder="CEC" />
+    </form>
+    <%= content_tag(:div, '', id: "board", class: "board" ) %>
+    <form id="frmAddList" class="form-add-list">
+      Add Assignee Column: 
+      <input type="text" autocomplete="off" name="list_name" id="" value="" />
+      <button type="button" class="float-right" onclick="reset_app()">Reset</button>
+    </form>
+  <% end %>
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/lodash/4/lodash.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<%= javascript_include_tag 'app.js' %>
+</body>
+</html>
